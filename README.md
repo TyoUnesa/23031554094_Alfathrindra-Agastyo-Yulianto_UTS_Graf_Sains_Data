@@ -131,9 +131,3 @@ Jalankan database Neo4j dan sesuaikan konfigurasi koneksi dengan lingkungan loka
 - Kemiripan Item dihitung berdasarkan pola interaksi pengunjung.
 - Hasil evaluasi rekomendasi bergantung pada data, parameter, dan pengguna yang dievaluasi.
 - Folder virtual environment, arsip dataset, file data yang tidak digunakan, dan cache dikecualikan menggunakan `.gitignore`.
-
-## Penulis
-
-**Alfathrindra Agastyo Yulianto**  
-Program Studi Sains Data  
-Universitas Negeri Surabaya
