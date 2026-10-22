@@ -1,0 +1,2 @@
+random_seed,visitorid,k_neighbors,recommendation_cutoff,relevant_test_items,hits_in_top5,hit_at_5,dcg_at_5,idcg_at_5,ndcg_at_5
+123,478537,5,5,42,0,0.0,0.0,2.9484591188793923,0.0

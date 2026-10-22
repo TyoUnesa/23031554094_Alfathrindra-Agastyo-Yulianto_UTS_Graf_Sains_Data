@@ -1,0 +1,2 @@
+random_seed,sample_size,eligible_users,k_neighbors,recommendation_cutoff,users_with_hit_at_5,hit_at_5_rate,mean_ndcg_at_5,mean_dcg_at_5,mean_relevant_test_items,mean_recommendations_generated
+2026,100,1152,5,5,3,0.03,0.010777832835633138,0.019484591188793924,3.63,1.32
